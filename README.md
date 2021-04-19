@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### To access presentation use oxy accounts
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://docs.google.com/presentation/d/1Bqdnt5X4Uiq6NQxq4o9kxeIVoCL69vU-DSMT79QEKg4/edit?usp=sharing
