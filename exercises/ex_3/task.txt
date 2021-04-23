@@ -1,0 +1,2 @@
+-   Using Vue router and create dynamic Profile page
+-   Add go back button

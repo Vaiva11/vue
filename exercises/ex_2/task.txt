@@ -1,0 +1,4 @@
+-   In App.vue file fetch data from `http://hp-api.herokuapp.com/api/characters`
+    and save it in local state
+-   Loop data using v-for and pass name, image and yearOfBirth to Card component as props
+-   If yearOfBirth does not exist then do not display it in Card

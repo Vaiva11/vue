@@ -1,0 +1,6 @@
+-   Create `Card` component
+-   It accepts these props: 
+        image: String,
+        name: String,
+        yearOfBirth: Number
+-   Display it and pass props from App.vue file
