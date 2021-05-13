@@ -18,12 +18,9 @@ export default {
   name: 'Profile',
   data () {
     return {
-      profileData: null
+      profileData: this.$route.params
     }
-  },
-  created() {
-    this.profileData = this.$route.params;
-  },
+  }
 }
 </script>
 
